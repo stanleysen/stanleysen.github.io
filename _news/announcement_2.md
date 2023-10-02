@@ -1,7 +1,7 @@
 ---
 layout: post
 date: July 2025
-inline: false
+inline: true
 related_posts: false
 ---
 
