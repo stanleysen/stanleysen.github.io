@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /cv/
 title: cv 
 nav: false #dijadiin false & (layout: cv) ga jalan
