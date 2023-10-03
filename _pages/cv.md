@@ -1,9 +1,11 @@
 ---
 layout: default
-permalink: /assets/pdf/CV_StanleySenRiyanto.pdf
+permalink: /cv/
 title: cv
-nav: false
+nav: true
 nav_order: 4
 cv_pdf: CV_StanleySenRiyanto.pdf
 ---
-<!-- [CV_StanleySenRiyanto.pdf](/assets/pdf/CV_StanleySenRiyanto.pdf) -->
+<script>
+window.location.href = "/assets/pdf/CV_StanleySenRiyanto.pdf";
+</script>
