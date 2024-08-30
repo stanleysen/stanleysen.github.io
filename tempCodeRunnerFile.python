@@ -1,0 +1,25 @@
+import numpy as np
+
+x = 1.5
+y = 3.5
+
+f = lambda x, y: x**2 + x*y - 10
+g = lambda x, y: y + 3*x*y**2 - 57
+
+f_turunan_x = lambda x, y: 2*x + y
+f_turunan_y = lambda x, y: x
+
+g_turunan_x = lambda x, y: 3*y**2
+g_turunan_y = lambda x, y: 1 + 6*x*y
+
+toleransi = 0.01
+
+def newton1(x, y, toleransi):
+    while np.abs(f(x, y)) > toleransi:
+        x_temp = x - ((f(x, y) * g_turunan_y(x, y)) - g(x, y) * f_turunan_y(x, y)) / ((f_turunan_x(x, y) * g_turunan_y(x, y)) - (f_turunan_y(x, y) * g_turunan_x(x, y)))
+        y = y - ((g(x, y) * f_turunan_x(x, y)) - f(x, y) * g_turunan_x(x, y)) / ((f_turunan_x(x, y) * g_turunan_y(x, y)) - (f_turunan_y(x, y) * g_turunan_x(x, y)))
+        x = x_temp
+    return x
+
+result = newton1(x, y, toleransi)
+print(result)
