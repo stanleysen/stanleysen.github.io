@@ -14,7 +14,7 @@ horizontal: false
 > Designed for `book sales`, browse and purchase books, add items, and place orders. also uploading new books, managing existing books, and viewing order lists by users.
 [Github](https://github.com/mKevinSF/DatabaseAOL-Bookstore) |  -->
 
-# Database Bookstore
+## Database Bookstore
 Designed for `book sales`, browse and purchase books, add items, and place orders. also uploading new books, managing existing books, and viewing order lists by users.
 [Github](https://github.com/mKevinSF/DatabaseAOL-Bookstore) | 
 
