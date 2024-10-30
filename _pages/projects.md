@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Projects
+title: projects
 permalink: /projects/
 description: academic projects
 nav: true
