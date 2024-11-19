@@ -8,5 +8,6 @@ cv_pdf: CV_StanleySenRiyanto.pdf
 ---
 <script>
 // window.location.href = "/assets/pdf/CV_StanleySenRiyanto.pdf";
+window.location.href = "/assets/pdf/cv.txt";
 console.log("CV is being updated.")
 </script>
