@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /cv/
-title: cv
+title: cv (is being updated)
 nav: true
 nav_order: 4
 cv_pdf: CV_StanleySenRiyanto.pdf
