@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IT & CySec Enthusiast 
+subtitle: Computer Science Student | DevOps | Cloud Computing 
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -20,6 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi ! I'm Stanley Sen Riyanto, Highly motivated undergraduate student majoring in `computer science` at `Bina Nusantara University` seeking to leverage my technical skills and passion for innovation to contribute to a dynamic and progressive organization. I aim to apply my knowledge of programming languages through collaborative teamwork and continous learning to make an impact in the field of computer science to contribute to technology advancement
+Hi ! I'm Stanley Sen Riyanto, Highly motivated undergraduate student majoring in `computer science` at `Bina Nusantara University`. I am eager to contribute my technical skills and passion for innovation to a dynamic and forward-thinking organization. contribute. Aim to apply my knowledge through collaborative teamwork and continuous learning to make an impact in technology and contribute to its advancement.
 
-I am deeply passionate about the field of `computer science and cybersecurity` and am eager to immerse myself in `cybersecurity-related roles`.  I am drawn to the constant challenges that the field presents, as it requires continuous learning and adaptability to stay up-to-date with the changes and improvements. I'm willing to contribute to the digital world and play a crucial role, also committed to honing my skills and knowledge in this field and look forward to the opportunity to make a positive impact through my work.
+
+I am deeply passionate about `cloud computing`, `cybersecurity`, and `data`. I am eager to immerse myself in roles where I can explore the transformative potential of `cloud technologies`, ensure robust `digital security`, and harness `the power of data` to derive valuable insights. I am drawn to the challenges these fields present, as they require adaptability, continuous learning, and an innovative mindset to stay ahead of the curve.
